@@ -8,7 +8,7 @@ Hypothetical Background: In preparation for a trip to Honolulu, I will conduct a
 
 ## Analysis & Results
 
-* Precipitation Analysis
+* __Precipitation Analysis__
   * Find the most recent date in the dataset.
   * Using that date, get the previous 12 months of precipitation data by querying the previous 12 months of data.
   * Select only the "date" and "prcp" values.
@@ -19,7 +19,7 @@ Hypothetical Background: In preparation for a trip to Honolulu, I will conduct a
 
 <img width="700" alt="Screen Shot 2023-05-29 at 11 29 29 PM" src="https://github.com/therahgithub/sqlalchemy-challenge/assets/119986667/d3f37cf1-6dc1-42fb-b78f-4138482551f4">
 
-* Station Analysis
+* __Station Analysis__
   * Design a query to calculate the total number of stations in the dataset.
   * Design a query to find the most-active stations.
   * List the stations and observation counts in descending order.
