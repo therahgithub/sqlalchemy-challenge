@@ -1,6 +1,6 @@
-# SQLAlchemy Challenge
-
 <img width="1000" alt="Screen Shot 2023-05-29 at 11 20 46 PM" src="https://github.com/therahgithub/sqlalchemy-challenge/assets/119986667/3c0fd2d0-e614-4413-bb1b-4b74e383bc8c">
+
+# SQLAlchemy Challenge
 
 ## Hawaii Weather
 
